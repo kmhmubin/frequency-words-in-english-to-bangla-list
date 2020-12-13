@@ -1,0 +1,4082 @@
+[
+ {
+   "English": "a",
+   "Bangla": "একটি"
+ },
+ {
+   "English": "ability",
+   "Bangla": "ক্ষমতা"
+ },
+ {
+   "English": "able",
+   "Bangla": "সক্ষম"
+ },
+ {
+   "English": "aboard",
+   "Bangla": "বিদেশে"
+ },
+ {
+   "English": "about",
+   "Bangla": "সম্পর্কিত"
+ },
+ {
+   "English": "above",
+   "Bangla": "উপরে"
+ },
+ {
+   "English": "absence",
+   "Bangla": "অনুপস্থিতি"
+ },
+ {
+   "English": "accept",
+   "Bangla": "গ্রহণ করা"
+ },
+ {
+   "English": "accident",
+   "Bangla": "দুর্ঘটনা"
+ },
+ {
+   "English": "accommodate",
+   "Bangla": "মিটমাট করা"
+ },
+ {
+   "English": "according",
+   "Bangla": "অনুযায়ী"
+ },
+ {
+   "English": "account",
+   "Bangla": "হিসাব"
+ },
+ {
+   "English": "achieve",
+   "Bangla": "অর্জন করা"
+ },
+ {
+   "English": "acquire",
+   "Bangla": "অর্জন"
+ },
+ {
+   "English": "across",
+   "Bangla": "দিয়ে"
+ },
+ {
+   "English": "act",
+   "Bangla": "আইন"
+ },
+ {
+   "English": "action",
+   "Bangla": "কর্ম"
+ },
+ {
+   "English": "activities",
+   "Bangla": "ক্রিয়াকলাপ"
+ },
+ {
+   "English": "actually",
+   "Bangla": "প্রকৃতপক্ষে"
+ },
+ {
+   "English": "add",
+   "Bangla": "যোগ"
+ },
+ {
+   "English": "addition",
+   "Bangla": "যোগ"
+ },
+ {
+   "English": "address",
+   "Bangla": "ঠিকানা"
+ },
+ {
+   "English": "adopt",
+   "Bangla": "অবলম্বন করা"
+ },
+ {
+   "English": "advertise",
+   "Bangla": "বিজ্ঞাপিত করা"
+ },
+ {
+   "English": "advice",
+   "Bangla": "পরামর্শ"
+ },
+ {
+   "English": "affair",
+   "Bangla": "ব্যাপার"
+ },
+ {
+   "English": "affect",
+   "Bangla": "প্রভাবিত"
+ },
+ {
+   "English": "afraid",
+   "Bangla": "ভীত"
+ },
+ {
+   "English": "after",
+   "Bangla": "পরে"
+ },
+ {
+   "English": "afternoon",
+   "Bangla": "বিকেল"
+ },
+ {
+   "English": "again",
+   "Bangla": "আবার"
+ },
+ {
+   "English": "against",
+   "Bangla": "বিরুদ্ধে"
+ },
+ {
+   "English": "age",
+   "Bangla": "বয়স"
+ },
+ {
+   "English": "ago",
+   "Bangla": "পূর্বে"
+ },
+ {
+   "English": "at",
+   "Bangla": "এ"
+ },
+ {
+   "English": "ate",
+   "Bangla": "খেয়েছি"
+ },
+ {
+   "English": "athlete",
+   "Bangla": "ক্রীড়াবিদ"
+ },
+ {
+   "English": "athletic",
+   "Bangla": "ক্রীড়াবিষয়ক"
+ },
+ {
+   "English": "attached",
+   "Bangla": "সংযুক্ত"
+ },
+ {
+   "English": "attempt",
+   "Bangla": "প্রচেষ্টা"
+ },
+ {
+   "English": "attend",
+   "Bangla": "স্বাগতম"
+ },
+ {
+   "English": "attention",
+   "Bangla": "মনোযোগ"
+ },
+ {
+   "English": "audience",
+   "Bangla": "শ্রোতা"
+ },
+ {
+   "English": "August",
+   "Bangla": "অগাস্ট"
+ },
+ {
+   "English": "aunt",
+   "Bangla": "মাসি"
+ },
+ {
+   "English": "author",
+   "Bangla": "লেখক"
+ },
+ {
+   "English": "auto",
+   "Bangla": "স্বয়ংক্রিয়"
+ },
+ {
+   "English": "automobile",
+   "Bangla": "মোটরগাড়ি"
+ },
+ {
+   "English": "available",
+   "Bangla": "সহজলভ্য"
+ },
+ {
+   "English": "avenue",
+   "Bangla": "প্রশস্ত রাজপথ"
+ },
+ {
+   "English": "average",
+   "Bangla": "গড়"
+ },
+ {
+   "English": "avoid",
+   "Bangla": "এড়াতে"
+ },
+ {
+   "English": "await",
+   "Bangla": "অপেক্ষায় রয়েছেন"
+ },
+ {
+   "English": "away",
+   "Bangla": "দূরে"
+ },
+ {
+   "English": "awful",
+   "Bangla": "ভয়াবহ, আতঙ্কজনক"
+ },
+ {
+   "English": "agree",
+   "Bangla": "একমত"
+ },
+ {
+   "English": "agreement",
+   "Bangla": "চুক্তি"
+ },
+ {
+   "English": "ahead",
+   "Bangla": "এগিয়ে"
+ },
+ {
+   "English": "air",
+   "Bangla": "বায়ু"
+ },
+ {
+   "English": "alike",
+   "Bangla": "একইভাবে"
+ },
+ {
+   "English": "alive",
+   "Bangla": "জীবিত"
+ },
+ {
+   "English": "all",
+   "Bangla": "সব"
+ },
+ {
+   "English": "all right",
+   "Bangla": "ঠিক আছে"
+ },
+ {
+   "English": "allege",
+   "Bangla": "সপক্ষে যুক্তি দেখান"
+ },
+ {
+   "English": "allow",
+   "Bangla": "অনুমতি"
+ },
+ {
+   "English": "allowed",
+   "Bangla": "অনুমতি"
+ },
+ {
+   "English": "almost",
+   "Bangla": "প্রায়"
+ },
+ {
+   "English": "alone",
+   "Bangla": "একা"
+ },
+ {
+   "English": "along",
+   "Bangla": "বরাবর"
+ },
+ {
+   "English": "already",
+   "Bangla": "ইতিমধ্যে"
+ },
+ {
+   "English": "also",
+   "Bangla": "এছাড়াও"
+ },
+ {
+   "English": "although",
+   "Bangla": "যদিও"
+ },
+ {
+   "English": "altogether",
+   "Bangla": "পুরাপুরি"
+ },
+ {
+   "English": "always",
+   "Bangla": "সর্বদা"
+ },
+ {
+   "English": "am",
+   "Bangla": "টা"
+ },
+ {
+   "English": "American",
+   "Bangla": "মার্কিন"
+ },
+ {
+   "English": "among",
+   "Bangla": "মধ্যে"
+ },
+ {
+   "English": "amount",
+   "Bangla": "পরিমাণ"
+ },
+ {
+   "English": "an",
+   "Bangla": "একটি"
+ },
+ {
+   "English": "ancient",
+   "Bangla": "প্রাচীন"
+ },
+ {
+   "English": "and",
+   "Bangla": "এবং"
+ },
+ {
+   "English": "anger",
+   "Bangla": "রাগ"
+ },
+ {
+   "English": "angle",
+   "Bangla": "কোণ"
+ },
+ {
+   "English": "angry",
+   "Bangla": "ক্রুদ্ধ"
+ },
+ {
+   "English": "animal",
+   "Bangla": "পশু"
+ },
+ {
+   "English": "animals",
+   "Bangla": "পশুদের"
+ },
+ {
+   "English": "annual",
+   "Bangla": "বার্ষিক"
+ },
+ {
+   "English": "another",
+   "Bangla": "অন্য"
+ },
+ {
+   "English": "answer",
+   "Bangla": "উত্তর"
+ },
+ {
+   "English": "any",
+   "Bangla": "কোন"
+ },
+ {
+   "English": "anyone",
+   "Bangla": "যে কেউ"
+ },
+ {
+   "English": "anything",
+   "Bangla": "কিছু"
+ },
+ {
+   "English": "anyway",
+   "Bangla": "যাহাই হউক না কেন"
+ },
+ {
+   "English": "apart",
+   "Bangla": "পৃথক্"
+ },
+ {
+   "English": "apartment",
+   "Bangla": "কামরা"
+ },
+ {
+   "English": "apparent",
+   "Bangla": "আপাত"
+ },
+ {
+   "English": "appear",
+   "Bangla": "প্রদর্শিত"
+ },
+ {
+   "English": "apple",
+   "Bangla": "আপেল"
+ },
+ {
+   "English": "application",
+   "Bangla": "আবেদন"
+ },
+ {
+   "English": "apply",
+   "Bangla": "প্রয়োগ করা"
+ },
+ {
+   "English": "appoint",
+   "Bangla": "নিয়োগ"
+ },
+ {
+   "English": "appreciate",
+   "Bangla": "তারিফ করা"
+ },
+ {
+   "English": "April",
+   "Bangla": "এপ্রিল"
+ },
+ {
+   "English": "are",
+   "Bangla": "হয়"
+ },
+ {
+   "English": "area",
+   "Bangla": "এলাকায়"
+ },
+ {
+   "English": "argument",
+   "Bangla": "যুক্তি"
+ },
+ {
+   "English": "arm",
+   "Bangla": "হাত"
+ },
+ {
+   "English": "army",
+   "Bangla": "সেনা"
+ },
+ {
+   "English": "around",
+   "Bangla": "কাছাকাছি"
+ },
+ {
+   "English": "arrange",
+   "Bangla": "ব্যবস্থা করা"
+ },
+ {
+   "English": "arrangement",
+   "Bangla": "ব্যবস্থা"
+ },
+ {
+   "English": "arrest",
+   "Bangla": "গ্রেফতার"
+ },
+ {
+   "English": "arrive",
+   "Bangla": "পৌঁছা"
+ },
+ {
+   "English": "arrived",
+   "Bangla": "আগত"
+ },
+ {
+   "English": "art",
+   "Bangla": "শিল্প"
+ },
+ {
+   "English": "article",
+   "Bangla": "প্রবন্ধ"
+ },
+ {
+   "English": "as",
+   "Bangla": "যেমন"
+ },
+ {
+   "English": "ask",
+   "Bangla": "জিজ্ঞাসা করা"
+ },
+ {
+   "English": "asked",
+   "Bangla": "জিজ্ঞাসা"
+ },
+ {
+   "English": "assist",
+   "Bangla": "সাহায্য"
+ },
+ {
+   "English": "associate",
+   "Bangla": "সহযোগী"
+ },
+ {
+   "English": "association",
+   "Bangla": "সংঘ"
+ },
+ {
+   "English": "assure",
+   "Bangla": "নিশ্চিত করা"
+ },
+ {
+   "English": "babies",
+   "Bangla": "শিশুদের"
+ },
+ {
+   "English": "baby",
+   "Bangla": "বাচ্চা"
+ },
+ {
+   "English": "back",
+   "Bangla": "পেছনে"
+ },
+ {
+   "English": "bad",
+   "Bangla": "খারাপ"
+ },
+ {
+   "English": "bag",
+   "Bangla": "থলে"
+ },
+ {
+   "English": "balance",
+   "Bangla": "ভারসাম্য"
+ },
+ {
+   "English": "ball",
+   "Bangla": "বল"
+ },
+ {
+   "English": "band",
+   "Bangla": "দল"
+ },
+ {
+   "English": "bank",
+   "Bangla": "ব্যাংক"
+ },
+ {
+   "English": "barbecue",
+   "Bangla": "কাবাব"
+ },
+ {
+   "English": "base",
+   "Bangla": "ভিত্তি"
+ },
+ {
+   "English": "baseball",
+   "Bangla": "বেসবল"
+ },
+ {
+   "English": "basic",
+   "Bangla": "মৌলিক"
+ },
+ {
+   "English": "build",
+   "Bangla": "বিল্ড"
+ },
+ {
+   "English": "built",
+   "Bangla": "নির্মিত"
+ },
+ {
+   "English": "burn",
+   "Bangla": "পোড়া"
+ },
+ {
+   "English": "bus",
+   "Bangla": "বাস"
+ },
+ {
+   "English": "business",
+   "Bangla": "ব্যবসায়"
+ },
+ {
+   "English": "busy",
+   "Bangla": "ব্যস্ত"
+ },
+ {
+   "English": "but",
+   "Bangla": "কিন্তু"
+ },
+ {
+   "English": "buy",
+   "Bangla": "কেনা"
+ },
+ {
+   "English": "by",
+   "Bangla": "দ্বারা"
+ },
+ {
+   "English": "basically",
+   "Bangla": "মূলত"
+ },
+ {
+   "English": "bat",
+   "Bangla": "বাদুড়"
+ },
+ {
+   "English": "be",
+   "Bangla": "থাকা"
+ },
+ {
+   "English": "bear",
+   "Bangla": "ভালুক"
+ },
+ {
+   "English": "beat",
+   "Bangla": "বীট"
+ },
+ {
+   "English": "beautiful",
+   "Bangla": "সুন্দর"
+ },
+ {
+   "English": "beauty",
+   "Bangla": "সৌন্দর্য"
+ },
+ {
+   "English": "became",
+   "Bangla": "হয়ে ওঠে"
+ },
+ {
+   "English": "because",
+   "Bangla": "কারণ"
+ },
+ {
+   "English": "become",
+   "Bangla": "পরিণত"
+ },
+ {
+   "English": "bed",
+   "Bangla": "বিছানা"
+ },
+ {
+   "English": "been",
+   "Bangla": "হয়েছে"
+ },
+ {
+   "English": "before",
+   "Bangla": "আগে"
+ },
+ {
+   "English": "beg",
+   "Bangla": "প্রার্থনা করা"
+ },
+ {
+   "English": "began",
+   "Bangla": "শুরু হয়"
+ },
+ {
+   "English": "begin",
+   "Bangla": "শুরু করা"
+ },
+ {
+   "English": "beginning",
+   "Bangla": "শুরুতে"
+ },
+ {
+   "English": "begun",
+   "Bangla": "শুরু"
+ },
+ {
+   "English": "behind",
+   "Bangla": "পিছনে"
+ },
+ {
+   "English": "being",
+   "Bangla": "হচ্ছে"
+ },
+ {
+   "English": "believe",
+   "Bangla": "বিশ্বাস করা"
+ },
+ {
+   "English": "bell",
+   "Bangla": "ঘণ্টা"
+ },
+ {
+   "English": "belong",
+   "Bangla": "অন্তর্গত"
+ },
+ {
+   "English": "below",
+   "Bangla": "নিচে"
+ },
+ {
+   "English": "beneath",
+   "Bangla": "তলদেশে"
+ },
+ {
+   "English": "benefit",
+   "Bangla": "সুবিধা"
+ },
+ {
+   "English": "beside",
+   "Bangla": "পাশে"
+ },
+ {
+   "English": "best",
+   "Bangla": "সেরা"
+ },
+ {
+   "English": "better",
+   "Bangla": "উত্তম"
+ },
+ {
+   "English": "between",
+   "Bangla": "মধ্যে"
+ },
+ {
+   "English": "beyond",
+   "Bangla": "তার পরেও"
+ },
+ {
+   "English": "bicycle",
+   "Bangla": "সাইকেল"
+ },
+ {
+   "English": "big",
+   "Bangla": "বৃহৎ"
+ },
+ {
+   "English": "bill",
+   "Bangla": "বিল"
+ },
+ {
+   "English": "bird",
+   "Bangla": "পাখি"
+ },
+ {
+   "English": "bit",
+   "Bangla": "বিট"
+ },
+ {
+   "English": "black",
+   "Bangla": "কালো"
+ },
+ {
+   "English": "block",
+   "Bangla": "বাধা"
+ },
+ {
+   "English": "blood",
+   "Bangla": "রক্ত"
+ },
+ {
+   "English": "blow",
+   "Bangla": "ঘা"
+ },
+ {
+   "English": "blue",
+   "Bangla": "নীল"
+ },
+ {
+   "English": "board",
+   "Bangla": "তক্তা"
+ },
+ {
+   "English": "boat",
+   "Bangla": "নৌকা"
+ },
+ {
+   "English": "body",
+   "Bangla": "শরীর"
+ },
+ {
+   "English": "bone",
+   "Bangla": "হাড়"
+ },
+ {
+   "English": "book",
+   "Bangla": "বই"
+ },
+ {
+   "English": "born",
+   "Bangla": "জন্ম"
+ },
+ {
+   "English": "both",
+   "Bangla": "উভয়"
+ },
+ {
+   "English": "bottle",
+   "Bangla": "বোতল"
+ },
+ {
+   "English": "bottom",
+   "Bangla": "পাদ"
+ },
+ {
+   "English": "bought",
+   "Bangla": "কিনলেন"
+ },
+ {
+   "English": "box",
+   "Bangla": "বক্স"
+ },
+ {
+   "English": "boy",
+   "Bangla": "ছেলে"
+ },
+ {
+   "English": "branch",
+   "Bangla": "শাখা"
+ },
+ {
+   "English": "bread",
+   "Bangla": "রুটি"
+ },
+ {
+   "English": "break",
+   "Bangla": "বিরতি"
+ },
+ {
+   "English": "breakfast",
+   "Bangla": "ব্রেকফাস্ট"
+ },
+ {
+   "English": "breath",
+   "Bangla": "শ্বাস"
+ },
+ {
+   "English": "breathe",
+   "Bangla": "শ্বাস ফেলা"
+ },
+ {
+   "English": "bridge",
+   "Bangla": "সেতু"
+ },
+ {
+   "English": "bright",
+   "Bangla": "উজ্জ্বল"
+ },
+ {
+   "English": "brilliant",
+   "Bangla": "উজ্জ্বল"
+ },
+ {
+   "English": "bring",
+   "Bangla": "আনা"
+ },
+ {
+   "English": "broke",
+   "Bangla": "ভেঙে"
+ },
+ {
+   "English": "broken",
+   "Bangla": "ভাঙ্গা"
+ },
+ {
+   "English": "brother",
+   "Bangla": "ভাই"
+ },
+ {
+   "English": "brought",
+   "Bangla": "আনীত"
+ },
+ {
+   "English": "brown",
+   "Bangla": "বাদামী"
+ },
+ {
+   "English": "cabin",
+   "Bangla": "কেবিন"
+ },
+ {
+   "English": "calendar",
+   "Bangla": "পাঁজি"
+ },
+ {
+   "English": "call",
+   "Bangla": "কল"
+ },
+ {
+   "English": "called",
+   "Bangla": "নামক"
+ },
+ {
+   "English": "came",
+   "Bangla": "এল"
+ },
+ {
+   "English": "camp",
+   "Bangla": "শিবির"
+ },
+ {
+   "English": "can",
+   "Bangla": "করতে পারা"
+ },
+ {
+   "English": "can’t",
+   "Bangla": "নারা"
+ },
+ {
+   "English": "cancel",
+   "Bangla": "বাতিল"
+ },
+ {
+   "English": "cannot",
+   "Bangla": "না পারেন"
+ },
+ {
+   "English": "capital",
+   "Bangla": "রাজধানী"
+ },
+ {
+   "English": "captain",
+   "Bangla": "অধিনায়ক"
+ },
+ {
+   "English": "capture",
+   "Bangla": "গ্রেপ্তার"
+ },
+ {
+   "English": "car",
+   "Bangla": "গাড়ী"
+ },
+ {
+   "English": "card",
+   "Bangla": "কার্ড"
+ },
+ {
+   "English": "care",
+   "Bangla": "যত্ন"
+ },
+ {
+   "English": "career",
+   "Bangla": "পেশা"
+ },
+ {
+   "English": "careful",
+   "Bangla": "সাবধান"
+ },
+ {
+   "English": "carefully",
+   "Bangla": "সাবধানে"
+ },
+ {
+   "English": "carried",
+   "Bangla": "বাহিত"
+ },
+ {
+   "English": "carry",
+   "Bangla": "বহন"
+ },
+ {
+   "English": "case",
+   "Bangla": "কেস"
+ },
+ {
+   "English": "cast",
+   "Bangla": "ঢালাই"
+ },
+ {
+   "English": "cat",
+   "Bangla": "বিড়াল"
+ },
+ {
+   "English": "catch",
+   "Bangla": "ধরা"
+ },
+ {
+   "English": "community",
+   "Bangla": "সম্প্রদায়"
+ },
+ {
+   "English": "company",
+   "Bangla": "প্রতিষ্ঠান"
+ },
+ {
+   "English": "compare",
+   "Bangla": "তুলনা করা"
+ },
+ {
+   "English": "competition",
+   "Bangla": "প্রতিযোগিতা"
+ },
+ {
+   "English": "complaint",
+   "Bangla": "অভিযোগ"
+ },
+ {
+   "English": "complete",
+   "Bangla": "সম্পূর্ণ"
+ },
+ {
+   "English": "concern",
+   "Bangla": "উদ্বেগ"
+ },
+ {
+   "English": "condition",
+   "Bangla": "শর্ত"
+ },
+ {
+   "English": "conference",
+   "Bangla": "সম্মেলন"
+ },
+ {
+   "English": "connect",
+   "Bangla": "কানেক্ট"
+ },
+ {
+   "English": "connection",
+   "Bangla": "সংযোগ"
+ },
+ {
+   "English": "consider",
+   "Bangla": "বিবেচনা"
+ },
+ {
+   "English": "consideration",
+   "Bangla": "বিবেচনা"
+ },
+ {
+   "English": "consonant",
+   "Bangla": "ব্যঞ্জনবর্ণ"
+ },
+ {
+   "English": "construction",
+   "Bangla": "নির্মাণ"
+ },
+ {
+   "English": "contain",
+   "Bangla": "ধারণ করা"
+ },
+ {
+   "English": "continent",
+   "Bangla": "মহাদেশ"
+ },
+ {
+   "English": "continue",
+   "Bangla": "অবিরত"
+ },
+ {
+   "English": "contract",
+   "Bangla": "চুক্তি"
+ },
+ {
+   "English": "control",
+   "Bangla": "নিয়ন্ত্রণ"
+ },
+ {
+   "English": "convenience",
+   "Bangla": "সুবিধা"
+ },
+ {
+   "English": "convenient",
+   "Bangla": "সুবিধাজনক"
+ },
+ {
+   "English": "convention",
+   "Bangla": "সম্মেলন"
+ },
+ {
+   "English": "conversation",
+   "Bangla": "কথোপকথন"
+ },
+ {
+   "English": "convict",
+   "Bangla": "আসামি"
+ },
+ {
+   "English": "convince",
+   "Bangla": "সন্তুষ্ট"
+ },
+ {
+   "English": "cook",
+   "Bangla": "রাঁধুনি"
+ },
+ {
+   "English": "cool",
+   "Bangla": "শীতল"
+ },
+ {
+   "English": "copy",
+   "Bangla": "কপি"
+ },
+ {
+   "English": "corn",
+   "Bangla": "ভূট্টা"
+ },
+ {
+   "English": "corner",
+   "Bangla": "কোণ"
+ },
+ {
+   "English": "correct",
+   "Bangla": "ঠিক"
+ },
+ {
+   "English": "cost",
+   "Bangla": "মূল্য"
+ },
+ {
+   "English": "cotton",
+   "Bangla": "কার্পাস"
+ },
+ {
+   "English": "category",
+   "Bangla": "বিভাগ"
+ },
+ {
+   "English": "cattle",
+   "Bangla": "গবাদি পশু"
+ },
+ {
+   "English": "caught",
+   "Bangla": "ধরা"
+ },
+ {
+   "English": "cause",
+   "Bangla": "কারণ"
+ },
+ {
+   "English": "ceiling",
+   "Bangla": "ছাদ"
+ },
+ {
+   "English": "celebration",
+   "Bangla": "অনুষ্ঠান"
+ },
+ {
+   "English": "cell",
+   "Bangla": "কোষ"
+ },
+ {
+   "English": "cemetery",
+   "Bangla": "কবরস্থান"
+ },
+ {
+   "English": "cent",
+   "Bangla": "শতাংশ"
+ },
+ {
+   "English": "center",
+   "Bangla": "কেন্দ্র"
+ },
+ {
+   "English": "century",
+   "Bangla": "শতাব্দী"
+ },
+ {
+   "English": "certain",
+   "Bangla": "নির্দিষ্ট"
+ },
+ {
+   "English": "chain",
+   "Bangla": "শৃঙ্খল"
+ },
+ {
+   "English": "chair",
+   "Bangla": "চেয়ার"
+ },
+ {
+   "English": "chance",
+   "Bangla": "সুযোগ"
+ },
+ {
+   "English": "change",
+   "Bangla": "পরিবর্তন"
+ },
+ {
+   "English": "chapter",
+   "Bangla": "অধ্যায়"
+ },
+ {
+   "English": "character",
+   "Bangla": "চরিত্র"
+ },
+ {
+   "English": "charge",
+   "Bangla": "চার্জ"
+ },
+ {
+   "English": "chart",
+   "Bangla": "তালিকা"
+ },
+ {
+   "English": "check",
+   "Bangla": "চেক"
+ },
+ {
+   "English": "chick",
+   "Bangla": "কুক্কুট"
+ },
+ {
+   "English": "chief",
+   "Bangla": "নেতা"
+ },
+ {
+   "English": "child",
+   "Bangla": "শিশু"
+ },
+ {
+   "English": "children",
+   "Bangla": "শিশু"
+ },
+ {
+   "English": "choose",
+   "Bangla": "পছন্দ করা"
+ },
+ {
+   "English": "Christmas",
+   "Bangla": "বড়দিনের পর্ব"
+ },
+ {
+   "English": "church",
+   "Bangla": "গির্জা"
+ },
+ {
+   "English": "circle",
+   "Bangla": "বৃত্ত"
+ },
+ {
+   "English": "circular",
+   "Bangla": "বিজ্ঞপ্তি"
+ },
+ {
+   "English": "circumstance",
+   "Bangla": "পরিস্থিতিতে"
+ },
+ {
+   "English": "cities",
+   "Bangla": "শহর"
+ },
+ {
+   "English": "citizen",
+   "Bangla": "নাগরিক"
+ },
+ {
+   "English": "city",
+   "Bangla": "শহর"
+ },
+ {
+   "English": "could",
+   "Bangla": "পারা"
+ },
+ {
+   "English": "couldn’t",
+   "Bangla": "না পারা"
+ },
+ {
+   "English": "council",
+   "Bangla": "পরিষদ"
+ },
+ {
+   "English": "count",
+   "Bangla": "গণনা"
+ },
+ {
+   "English": "country",
+   "Bangla": "দেশ"
+ },
+ {
+   "English": "couple",
+   "Bangla": "দম্পতি"
+ },
+ {
+   "English": "courage",
+   "Bangla": "সাহস"
+ },
+ {
+   "English": "course",
+   "Bangla": "পথ"
+ },
+ {
+   "English": "court",
+   "Bangla": "আদালত"
+ },
+ {
+   "English": "cover",
+   "Bangla": "আবরণ"
+ },
+ {
+   "English": "cow",
+   "Bangla": "গাভী"
+ },
+ {
+   "English": "crease",
+   "Bangla": "ভাঁজ করা"
+ },
+ {
+   "English": "create",
+   "Bangla": "সৃষ্টি"
+ },
+ {
+   "English": "criticize",
+   "Bangla": "সমালোচনা করা"
+ },
+ {
+   "English": "crop",
+   "Bangla": "ফসল"
+ },
+ {
+   "English": "cross",
+   "Bangla": "ক্রস"
+ },
+ {
+   "English": "crowd",
+   "Bangla": "ভিড়"
+ },
+ {
+   "English": "current",
+   "Bangla": "বর্তমান"
+ },
+ {
+   "English": "cut",
+   "Bangla": "কাটা"
+ },
+ {
+   "English": "claim",
+   "Bangla": "দাবি"
+ },
+ {
+   "English": "class",
+   "Bangla": "শ্রেণী"
+ },
+ {
+   "English": "clean",
+   "Bangla": "পরিষ্কার"
+ },
+ {
+   "English": "clear",
+   "Bangla": "পরিষ্কার"
+ },
+ {
+   "English": "clerk",
+   "Bangla": "করণিক"
+ },
+ {
+   "English": "climate",
+   "Bangla": "জলবায়ু"
+ },
+ {
+   "English": "climb",
+   "Bangla": "আরোহণ"
+ },
+ {
+   "English": "climbed",
+   "Bangla": "আরোহন"
+ },
+ {
+   "English": "clock",
+   "Bangla": "ঘড়ি"
+ },
+ {
+   "English": "close",
+   "Bangla": "ঘনিষ্ঠ"
+ },
+ {
+   "English": "clothe",
+   "Bangla": "গরমের সময় কাপড়ের"
+ },
+ {
+   "English": "clothes",
+   "Bangla": "বস্ত্র"
+ },
+ {
+   "English": "clothing",
+   "Bangla": "বস্ত্র"
+ },
+ {
+   "English": "cloud",
+   "Bangla": "মেঘ"
+ },
+ {
+   "English": "club",
+   "Bangla": "ক্লাব"
+ },
+ {
+   "English": "coast",
+   "Bangla": "উপকূল"
+ },
+ {
+   "English": "coat",
+   "Bangla": "কোট"
+ },
+ {
+   "English": "coffee",
+   "Bangla": "কফি"
+ },
+ {
+   "English": "cold",
+   "Bangla": "ঠান্ডা"
+ },
+ {
+   "English": "collect",
+   "Bangla": "সংগ্রহ"
+ },
+ {
+   "English": "college",
+   "Bangla": "কলেজ"
+ },
+ {
+   "English": "colonies",
+   "Bangla": "উপনিবেশ"
+ },
+ {
+   "English": "colony",
+   "Bangla": "উপনিবেশ"
+ },
+ {
+   "English": "color",
+   "Bangla": "রঙ"
+ },
+ {
+   "English": "column",
+   "Bangla": "স্তম্ভ"
+ },
+ {
+   "English": "combination",
+   "Bangla": "সমাহার"
+ },
+ {
+   "English": "combine",
+   "Bangla": "মেশা"
+ },
+ {
+   "English": "come",
+   "Bangla": "আসা"
+ },
+ {
+   "English": "comfort",
+   "Bangla": "সান্ত্বনা"
+ },
+ {
+   "English": "coming",
+   "Bangla": "আসছে"
+ },
+ {
+   "English": "coming",
+   "Bangla": "আসছে"
+ },
+ {
+   "English": "command",
+   "Bangla": "হুকুম"
+ },
+ {
+   "English": "committee",
+   "Bangla": "কমিটি"
+ },
+ {
+   "English": "common",
+   "Bangla": "সাধারণ"
+ },
+ {
+   "English": "dinner",
+   "Bangla": "ডিনার"
+ },
+ {
+   "English": "direct",
+   "Bangla": "সরাসরি"
+ },
+ {
+   "English": "direction",
+   "Bangla": "অভিমুখ"
+ },
+ {
+   "English": "director",
+   "Bangla": "পরিচালক"
+ },
+ {
+   "English": "disappear",
+   "Bangla": "অদৃশ্য"
+ },
+ {
+   "English": "disappoint",
+   "Bangla": "নিরাশ"
+ },
+ {
+   "English": "discipline",
+   "Bangla": "শৃঙ্খলা"
+ },
+ {
+   "English": "discover",
+   "Bangla": "আবিষ্কার করুন"
+ },
+ {
+   "English": "discuss",
+   "Bangla": "আলোচনা করা"
+ },
+ {
+   "English": "discussion",
+   "Bangla": "আলোচনা"
+ },
+ {
+   "English": "disease",
+   "Bangla": "রোগ"
+ },
+ {
+   "English": "distance",
+   "Bangla": "দূরত্ব"
+ },
+ {
+   "English": "distinguish",
+   "Bangla": "প্রভেদ করা"
+ },
+ {
+   "English": "distribute",
+   "Bangla": "বিতরণ করা"
+ },
+ {
+   "English": "district",
+   "Bangla": "জেলা"
+ },
+ {
+   "English": "divide",
+   "Bangla": "বিভক্ত করা"
+ },
+ {
+   "English": "division",
+   "Bangla": "বিভাগ"
+ },
+ {
+   "English": "do",
+   "Bangla": "করা"
+ },
+ {
+   "English": "doctor",
+   "Bangla": "ডাক্তার"
+ },
+ {
+   "English": "does",
+   "Bangla": "করে"
+ },
+ {
+   "English": "doesn’t",
+   "Bangla": "করে না"
+ },
+ {
+   "English": "dog",
+   "Bangla": "কুকুর"
+ },
+ {
+   "English": "dollar",
+   "Bangla": "ডলার"
+ },
+ {
+   "English": "dollars",
+   "Bangla": "ডলার"
+ },
+ {
+   "English": "don’t",
+   "Bangla": "না"
+ },
+ {
+   "English": "done",
+   "Bangla": "সম্পন্ন"
+ },
+ {
+   "English": "door",
+   "Bangla": "দরজা"
+ },
+ {
+   "English": "double",
+   "Bangla": "ডবল"
+ },
+ {
+   "English": "doubt",
+   "Bangla": "সন্দেহ"
+ },
+ {
+   "English": "down",
+   "Bangla": "নিচে"
+ },
+ {
+   "English": "dozen",
+   "Bangla": "ডজন"
+ },
+ {
+   "English": "draw",
+   "Bangla": "আঁকা"
+ },
+ {
+   "English": "dream",
+   "Bangla": "স্বপ্ন"
+ },
+ {
+   "English": "dress",
+   "Bangla": "পোশাক"
+ },
+ {
+   "English": "dad",
+   "Bangla": "বাবা"
+ },
+ {
+   "English": "daily",
+   "Bangla": "দৈনন্দিন"
+ },
+ {
+   "English": "dance",
+   "Bangla": "নাচতে"
+ },
+ {
+   "English": "danger",
+   "Bangla": "ঝুঁকি"
+ },
+ {
+   "English": "dangerous",
+   "Bangla": "বিপজ্জনক"
+ },
+ {
+   "English": "dark",
+   "Bangla": "অন্ধকার"
+ },
+ {
+   "English": "dash",
+   "Bangla": "হানাহানি"
+ },
+ {
+   "English": "date",
+   "Bangla": "তারিখ"
+ },
+ {
+   "English": "daughter",
+   "Bangla": "কন্যা"
+ },
+ {
+   "English": "day",
+   "Bangla": "দিন"
+ },
+ {
+   "English": "dead",
+   "Bangla": "মৃত"
+ },
+ {
+   "English": "deal",
+   "Bangla": "লেনদেন"
+ },
+ {
+   "English": "dear",
+   "Bangla": "প্রিয়"
+ },
+ {
+   "English": "death",
+   "Bangla": "মরণ"
+ },
+ {
+   "English": "debate",
+   "Bangla": "বিতর্ক"
+ },
+ {
+   "English": "drill",
+   "Bangla": "কসরত"
+ },
+ {
+   "English": "drink",
+   "Bangla": "পান করা"
+ },
+ {
+   "English": "drive",
+   "Bangla": "ড্রাইভ"
+ },
+ {
+   "English": "driven",
+   "Bangla": "চালিত"
+ },
+ {
+   "English": "drop",
+   "Bangla": "ঝরা"
+ },
+ {
+   "English": "dropped",
+   "Bangla": "বাদ"
+ },
+ {
+   "English": "drove",
+   "Bangla": "ঘটেছে"
+ },
+ {
+   "English": "drown",
+   "Bangla": "মজান"
+ },
+ {
+   "English": "dry",
+   "Bangla": "শুষ্ক"
+ },
+ {
+   "English": "duck",
+   "Bangla": "হাঁস"
+ },
+ {
+   "English": "due",
+   "Bangla": "বাকি"
+ },
+ {
+   "English": "during",
+   "Bangla": "সময়"
+ },
+ {
+   "English": "dust",
+   "Bangla": "ধূলিকণা"
+ },
+ {
+   "English": "duty",
+   "Bangla": "দায়িত্ব"
+ },
+ {
+   "English": "December",
+   "Bangla": "ডিসেম্বর"
+ },
+ {
+   "English": "decide",
+   "Bangla": "সিদ্ধান্ত নেন"
+ },
+ {
+   "English": "decimal",
+   "Bangla": "দশমিক"
+ },
+ {
+   "English": "decision",
+   "Bangla": "রায়"
+ },
+ {
+   "English": "declare",
+   "Bangla": "ঘোষণা"
+ },
+ {
+   "English": "deep",
+   "Bangla": "গভীর"
+ },
+ {
+   "English": "definite",
+   "Bangla": "নির্দিষ্ট"
+ },
+ {
+   "English": "degree",
+   "Bangla": "ডিগ্রী"
+ },
+ {
+   "English": "delay",
+   "Bangla": "বিলম্ব"
+ },
+ {
+   "English": "department",
+   "Bangla": "বিভাগ"
+ },
+ {
+   "English": "depend",
+   "Bangla": "নির্ভর"
+ },
+ {
+   "English": "deposit",
+   "Bangla": "আমানত"
+ },
+ {
+   "English": "describe",
+   "Bangla": "বর্ণনা করা"
+ },
+ {
+   "English": "desert",
+   "Bangla": "মরুভূমি"
+ },
+ {
+   "English": "design",
+   "Bangla": "নকশা"
+ },
+ {
+   "English": "desire",
+   "Bangla": "ইচ্ছা"
+ },
+ {
+   "English": "desperate",
+   "Bangla": "মরিয়া"
+ },
+ {
+   "English": "destroy",
+   "Bangla": "ধ্বংস"
+ },
+ {
+   "English": "detailed",
+   "Bangla": "বিশদ"
+ },
+ {
+   "English": "determine",
+   "Bangla": "নির্ধারণ"
+ },
+ {
+   "English": "determined",
+   "Bangla": "নির্ধারিত"
+ },
+ {
+   "English": "develop",
+   "Bangla": "বিকাশ"
+ },
+ {
+   "English": "diamond",
+   "Bangla": "হীরা"
+ },
+ {
+   "English": "dictionary",
+   "Bangla": "অভিধান"
+ },
+ {
+   "English": "did",
+   "Bangla": "করেছিল"
+ },
+ {
+   "English": "didn’t",
+   "Bangla": "না"
+ },
+ {
+   "English": "die",
+   "Bangla": "মরা"
+ },
+ {
+   "English": "died",
+   "Bangla": "মারা যান"
+ },
+ {
+   "English": "differ",
+   "Bangla": "ভিন্ন"
+ },
+ {
+   "English": "difference",
+   "Bangla": "পার্থক্য"
+ },
+ {
+   "English": "different",
+   "Bangla": "বিভিন্ন"
+ },
+ {
+   "English": "difficult",
+   "Bangla": "কঠিন"
+ },
+ {
+   "English": "difficulty",
+   "Bangla": "অসুবিধা"
+ },
+ {
+   "English": "dilemma",
+   "Bangla": "উভয়সঙ্কট"
+ },
+ {
+   "English": "event",
+   "Bangla": "ঘটনা"
+ },
+ {
+   "English": "ever",
+   "Bangla": "চিরকাল"
+ },
+ {
+   "English": "every",
+   "Bangla": "প্রতি"
+ },
+ {
+   "English": "everybody",
+   "Bangla": "সবাই"
+ },
+ {
+   "English": "everyone",
+   "Bangla": "সবাই"
+ },
+ {
+   "English": "everything",
+   "Bangla": "সব"
+ },
+ {
+   "English": "evidence",
+   "Bangla": "প্রমান"
+ },
+ {
+   "English": "exact",
+   "Bangla": "সঠিক"
+ },
+ {
+   "English": "exactly",
+   "Bangla": "ঠিক"
+ },
+ {
+   "English": "exaggerate",
+   "Bangla": "অতিরঞ্জিত করা"
+ },
+ {
+   "English": "examination",
+   "Bangla": "পরীক্ষা"
+ },
+ {
+   "English": "example",
+   "Bangla": "উদাহরণ"
+ },
+ {
+   "English": "excellent",
+   "Bangla": "চমত্কার"
+ },
+ {
+   "English": "except",
+   "Bangla": "ছাড়া"
+ },
+ {
+   "English": "excite",
+   "Bangla": "এক্সাইট"
+ },
+ {
+   "English": "excited",
+   "Bangla": "উত্তেজিত"
+ },
+ {
+   "English": "exercise",
+   "Bangla": "ব্যায়াম"
+ },
+ {
+   "English": "exist",
+   "Bangla": "থাকবেই"
+ },
+ {
+   "English": "existence",
+   "Bangla": "অস্তিত্ব"
+ },
+ {
+   "English": "expect",
+   "Bangla": "আশা করা"
+ },
+ {
+   "English": "expense",
+   "Bangla": "ব্যয়"
+ },
+ {
+   "English": "experience",
+   "Bangla": "অভিজ্ঞতা"
+ },
+ {
+   "English": "experiment",
+   "Bangla": "পরীক্ষা"
+ },
+ {
+   "English": "explain",
+   "Bangla": "ব্যাখ্যা করা"
+ },
+ {
+   "English": "explanation",
+   "Bangla": "ব্যাখ্যা"
+ },
+ {
+   "English": "express",
+   "Bangla": "প্রকাশ করা"
+ },
+ {
+   "English": "extra",
+   "Bangla": "অতিরিক্ত"
+ },
+ {
+   "English": "extreme",
+   "Bangla": "চরম"
+ },
+ {
+   "English": "eye",
+   "Bangla": "চোখ"
+ },
+ {
+   "English": "each",
+   "Bangla": "প্রতি"
+ },
+ {
+   "English": "earliest",
+   "Bangla": "নিকটতম"
+ },
+ {
+   "English": "early",
+   "Bangla": "গোড়ার দিকে"
+ },
+ {
+   "English": "earth",
+   "Bangla": "পৃথিবী"
+ },
+ {
+   "English": "easily",
+   "Bangla": "সহজে"
+ },
+ {
+   "English": "east",
+   "Bangla": "পূর্ব"
+ },
+ {
+   "English": "easy",
+   "Bangla": "সহজ"
+ },
+ {
+   "English": "eat",
+   "Bangla": "খাওয়া"
+ },
+ {
+   "English": "edge",
+   "Bangla": "প্রান্ত"
+ },
+ {
+   "English": "education",
+   "Bangla": "শিক্ষা"
+ },
+ {
+   "English": "effect",
+   "Bangla": "প্রভাব"
+ },
+ {
+   "English": "effort",
+   "Bangla": "প্রচেষ্টা"
+ },
+ {
+   "English": "egg",
+   "Bangla": "ডিম"
+ },
+ {
+   "English": "eight",
+   "Bangla": "আট"
+ },
+ {
+   "English": "either",
+   "Bangla": "হয়"
+ },
+ {
+   "English": "elaborate",
+   "Bangla": "সম্প্রসারিত"
+ },
+ {
+   "English": "elect",
+   "Bangla": "নির্বাচিত"
+ },
+ {
+   "English": "election",
+   "Bangla": "নির্বাচন"
+ },
+ {
+   "English": "electric",
+   "Bangla": "বৈদ্যুতিক"
+ },
+ {
+   "English": "electricity",
+   "Bangla": "বিদ্যুৎ"
+ },
+ {
+   "English": "else",
+   "Bangla": "আর"
+ },
+ {
+   "English": "embarrass",
+   "Bangla": "বিব্রত করা"
+ },
+ {
+   "English": "emergency",
+   "Bangla": "জরুরি অবস্থা"
+ },
+ {
+   "English": "empire",
+   "Bangla": "সাম্রাজ্য"
+ },
+ {
+   "English": "employ",
+   "Bangla": "চাকরী"
+ },
+ {
+   "English": "employee",
+   "Bangla": "কর্মচারী"
+ },
+ {
+   "English": "empty",
+   "Bangla": "খালি"
+ },
+ {
+   "English": "enclose",
+   "Bangla": "ঘিরা"
+ },
+ {
+   "English": "end",
+   "Bangla": "শেষ"
+ },
+ {
+   "English": "enemy",
+   "Bangla": "শত্রু"
+ },
+ {
+   "English": "energy",
+   "Bangla": "শক্তি"
+ },
+ {
+   "English": "engage",
+   "Bangla": "চুক্তিবদ্ধ করান"
+ },
+ {
+   "English": "engine",
+   "Bangla": "ইঞ্জিন"
+ },
+ {
+   "English": "English",
+   "Bangla": "ইংরেজি"
+ },
+ {
+   "English": "enjoy",
+   "Bangla": "উপভোগ"
+ },
+ {
+   "English": "enough",
+   "Bangla": "যথেষ্ট"
+ },
+ {
+   "English": "enter",
+   "Bangla": "প্রবেশ করান"
+ },
+ {
+   "English": "entered",
+   "Bangla": "প্রবিষ্ট"
+ },
+ {
+   "English": "entertain",
+   "Bangla": "পোষণ করা"
+ },
+ {
+   "English": "entire",
+   "Bangla": "সমগ্র"
+ },
+ {
+   "English": "entitle",
+   "Bangla": "আখ্যাত করা"
+ },
+ {
+   "English": "entrance",
+   "Bangla": "প্রবেশদ্বার"
+ },
+ {
+   "English": "environment",
+   "Bangla": "পরিবেশ"
+ },
+ {
+   "English": "environment",
+   "Bangla": "পরিবেশ"
+ },
+ {
+   "English": "equal",
+   "Bangla": "সমান"
+ },
+ {
+   "English": "equate",
+   "Bangla": "সমীকরণ করা"
+ },
+ {
+   "English": "equipment",
+   "Bangla": "উপকরণ"
+ },
+ {
+   "English": "equipped",
+   "Bangla": "সজ্জিত"
+ },
+ {
+   "English": "escape",
+   "Bangla": "অব্যাহতি"
+ },
+ {
+   "English": "especially",
+   "Bangla": "বিশেষত"
+ },
+ {
+   "English": "estate",
+   "Bangla": "স্টেট"
+ },
+ {
+   "English": "estimate",
+   "Bangla": "হিসাব"
+ },
+ {
+   "English": "even",
+   "Bangla": "এমন কি"
+ },
+ {
+   "English": "evening",
+   "Bangla": "সন্ধ্যা"
+ },
+ {
+   "English": "face",
+   "Bangla": "মুখ"
+ },
+ {
+   "English": "fact",
+   "Bangla": "সত্য"
+ },
+ {
+   "English": "factory",
+   "Bangla": "কারখানা"
+ },
+ {
+   "English": "fail",
+   "Bangla": "ব্যর্থ"
+ },
+ {
+   "English": "fair",
+   "Bangla": "ন্যায্য"
+ },
+ {
+   "English": "free",
+   "Bangla": "বিনামূল্যে"
+ },
+ {
+   "English": "frequently",
+   "Bangla": "ঘনঘন"
+ },
+ {
+   "English": "fresh",
+   "Bangla": "তাজা"
+ },
+ {
+   "English": "Friday",
+   "Bangla": "শুক্রবার"
+ },
+ {
+   "English": "friend",
+   "Bangla": "বন্ধু"
+ },
+ {
+   "English": "friends",
+   "Bangla": "বন্ধুদের"
+ },
+ {
+   "English": "frightened",
+   "Bangla": "ভীত"
+ },
+ {
+   "English": "from",
+   "Bangla": "থেকে"
+ },
+ {
+   "English": "front",
+   "Bangla": "সদর"
+ },
+ {
+   "English": "frozen",
+   "Bangla": "হিমায়িত"
+ },
+ {
+   "English": "fruit",
+   "Bangla": "ফল"
+ },
+ {
+   "English": "full",
+   "Bangla": "সম্পূর্ণ"
+ },
+ {
+   "English": "fun",
+   "Bangla": "মজা"
+ },
+ {
+   "English": "function",
+   "Bangla": "ক্রিয়া"
+ },
+ {
+   "English": "fundamental",
+   "Bangla": "মৌলিক"
+ },
+ {
+   "English": "funny",
+   "Bangla": "হাস্যকর"
+ },
+ {
+   "English": "furniture",
+   "Bangla": "আসবাবপত্র"
+ },
+ {
+   "English": "further",
+   "Bangla": "অধিকতর"
+ },
+ {
+   "English": "future",
+   "Bangla": "ভবিষ্যৎ"
+ },
+ {
+   "English": "fall",
+   "Bangla": "পড়া"
+ },
+ {
+   "English": "familiar",
+   "Bangla": "পরিচিত"
+ },
+ {
+   "English": "family",
+   "Bangla": "পরিবার"
+ },
+ {
+   "English": "famous",
+   "Bangla": "বিখ্যাত"
+ },
+ {
+   "English": "far",
+   "Bangla": "এ পর্যন্ত"
+ },
+ {
+   "English": "farm",
+   "Bangla": "খামার"
+ },
+ {
+   "English": "farmer",
+   "Bangla": "কৃষক"
+ },
+ {
+   "English": "farther",
+   "Bangla": "অধিকতর"
+ },
+ {
+   "English": "fascinating",
+   "Bangla": "চটুল"
+ },
+ {
+   "English": "fast",
+   "Bangla": "দ্রুত"
+ },
+ {
+   "English": "fat",
+   "Bangla": "চর্বি"
+ },
+ {
+   "English": "father",
+   "Bangla": "পিতা"
+ },
+ {
+   "English": "favor",
+   "Bangla": "আনুকূল্য"
+ },
+ {
+   "English": "favorite",
+   "Bangla": "প্রিয়"
+ },
+ {
+   "English": "fear",
+   "Bangla": "ভয়"
+ },
+ {
+   "English": "feather",
+   "Bangla": "পালক"
+ },
+ {
+   "English": "feature",
+   "Bangla": "বৈশিষ্ট্য"
+ },
+ {
+   "English": "February",
+   "Bangla": "ফেব্রুয়ারি"
+ },
+ {
+   "English": "feed",
+   "Bangla": "ভোজন"
+ },
+ {
+   "English": "feel",
+   "Bangla": "অনুভব করা"
+ },
+ {
+   "English": "feet",
+   "Bangla": "পা দুটো"
+ },
+ {
+   "English": "fell",
+   "Bangla": "খোলস"
+ },
+ {
+   "English": "felt",
+   "Bangla": "অনুভূত"
+ },
+ {
+   "English": "few",
+   "Bangla": "কয়েক"
+ },
+ {
+   "English": "field",
+   "Bangla": "ক্ষেত্র"
+ },
+ {
+   "English": "fifth",
+   "Bangla": "পঞ্চম"
+ },
+ {
+   "English": "fifty",
+   "Bangla": "পঞ্চাশ"
+ },
+ {
+   "English": "fight",
+   "Bangla": "যুদ্ধ"
+ },
+ {
+   "English": "figure",
+   "Bangla": "ব্যক্তিত্ব"
+ },
+ {
+   "English": "file",
+   "Bangla": "ফাইল"
+ },
+ {
+   "English": "fill",
+   "Bangla": "ভরাট"
+ },
+ {
+   "English": "final",
+   "Bangla": "চূড়ান্ত"
+ },
+ {
+   "English": "finally",
+   "Bangla": "পরিশেষে"
+ },
+ {
+   "English": "find",
+   "Bangla": "অনুসন্ধান"
+ },
+ {
+   "English": "fine",
+   "Bangla": "জরিমানা"
+ },
+ {
+   "English": "finger",
+   "Bangla": "আঙ্গুল"
+ },
+ {
+   "English": "finish",
+   "Bangla": "শেষ"
+ },
+ {
+   "English": "fire",
+   "Bangla": "আগুন"
+ },
+ {
+   "English": "firm",
+   "Bangla": "দৃঢ়"
+ },
+ {
+   "English": "first",
+   "Bangla": "প্রথম"
+ },
+ {
+   "English": "fish",
+   "Bangla": "মাছ"
+ },
+ {
+   "English": "fit",
+   "Bangla": "হইয়া"
+ },
+ {
+   "English": "five",
+   "Bangla": "পাঁচ"
+ },
+ {
+   "English": "fix",
+   "Bangla": "ফিক্স"
+ },
+ {
+   "English": "flat",
+   "Bangla": "সমান"
+ },
+ {
+   "English": "flew",
+   "Bangla": "আসেন"
+ },
+ {
+   "English": "flight",
+   "Bangla": "ফ্লাইট"
+ },
+ {
+   "English": "floor",
+   "Bangla": "মেঝে"
+ },
+ {
+   "English": "flow",
+   "Bangla": "প্রবাহ"
+ },
+ {
+   "English": "flower",
+   "Bangla": "ফুল"
+ },
+ {
+   "English": "fly",
+   "Bangla": "মাছি"
+ },
+ {
+   "English": "follow",
+   "Bangla": "অনুসরণ করা"
+ },
+ {
+   "English": "food",
+   "Bangla": "খাদ্য"
+ },
+ {
+   "English": "foot",
+   "Bangla": "পা"
+ },
+ {
+   "English": "for",
+   "Bangla": "জন্য"
+ },
+ {
+   "English": "force",
+   "Bangla": "বল"
+ },
+ {
+   "English": "foreign",
+   "Bangla": "বিদেশী"
+ },
+ {
+   "English": "forest",
+   "Bangla": "বন। জংগল"
+ },
+ {
+   "English": "forget",
+   "Bangla": "ভুলবেন"
+ },
+ {
+   "English": "form",
+   "Bangla": "ফর্ম"
+ },
+ {
+   "English": "forth",
+   "Bangla": "বের"
+ },
+ {
+   "English": "fortune",
+   "Bangla": "ভাগ্য"
+ },
+ {
+   "English": "forty",
+   "Bangla": "চল্লিশ"
+ },
+ {
+   "English": "forward",
+   "Bangla": "অগ্রবর্তী"
+ },
+ {
+   "English": "found",
+   "Bangla": "পাওয়া"
+ },
+ {
+   "English": "four",
+   "Bangla": "চার"
+ },
+ {
+   "English": "fourth",
+   "Bangla": "চতুর্থ"
+ },
+ {
+   "English": "fraction",
+   "Bangla": "ভগ্নাংশ"
+ },
+ {
+   "English": "game",
+   "Bangla": "খেলা"
+ },
+ {
+   "English": "garage",
+   "Bangla": "গ্যারেজ"
+ },
+ {
+   "English": "garden",
+   "Bangla": "বাগান"
+ },
+ {
+   "English": "gas",
+   "Bangla": "গ্যাস"
+ },
+ {
+   "English": "gather",
+   "Bangla": "সংগ্রহ করা"
+ },
+ {
+   "English": "gave",
+   "Bangla": "দিলেন"
+ },
+ {
+   "English": "general",
+   "Bangla": "সাধারণ"
+ },
+ {
+   "English": "generally",
+   "Bangla": "সাধারণত"
+ },
+ {
+   "English": "gentle",
+   "Bangla": "মৃদু"
+ },
+ {
+   "English": "get",
+   "Bangla": "পাওয়া"
+ },
+ {
+   "English": "getting",
+   "Bangla": "পেয়ে"
+ },
+ {
+   "English": "girl",
+   "Bangla": "মেয়ে"
+ },
+ {
+   "English": "give",
+   "Bangla": "দিতে"
+ },
+ {
+   "English": "glad",
+   "Bangla": "আনন্দিত"
+ },
+ {
+   "English": "glass",
+   "Bangla": "কাচ"
+ },
+ {
+   "English": "go",
+   "Bangla": "যাওয়া"
+ },
+ {
+   "English": "goes",
+   "Bangla": "যায়"
+ },
+ {
+   "English": "going",
+   "Bangla": "চালু"
+ },
+ {
+   "English": "gold",
+   "Bangla": "স্বর্ণ"
+ },
+ {
+   "English": "gone",
+   "Bangla": "সর্বস্বান্ত"
+ },
+ {
+   "English": "good",
+   "Bangla": "ভাল"
+ },
+ {
+   "English": "got",
+   "Bangla": "পেয়েছেন"
+ },
+ {
+   "English": "govern",
+   "Bangla": "শাসন ​​করা"
+ },
+ {
+   "English": "government",
+   "Bangla": "সরকার"
+ },
+ {
+   "English": "grammar",
+   "Bangla": "ব্যাকরণ"
+ },
+ {
+   "English": "grand",
+   "Bangla": "মহান"
+ },
+ {
+   "English": "grant",
+   "Bangla": "প্রদান"
+ },
+ {
+   "English": "grass",
+   "Bangla": "ঘাস"
+ },
+ {
+   "English": "gray",
+   "Bangla": "ধূসর"
+ },
+ {
+   "English": "great",
+   "Bangla": "মহান"
+ },
+ {
+   "English": "green",
+   "Bangla": "সবুজ"
+ },
+ {
+   "English": "grew",
+   "Bangla": "বড় হয়েছি"
+ },
+ {
+   "English": "groceries",
+   "Bangla": "মুদীখানার পণ্যদ্রব্য"
+ },
+ {
+   "English": "ground",
+   "Bangla": "স্থল"
+ },
+ {
+   "English": "group",
+   "Bangla": "গ্রুপ"
+ },
+ {
+   "English": "grow",
+   "Bangla": "হত্তয়া"
+ },
+ {
+   "English": "grown",
+   "Bangla": "উত্থিত"
+ },
+ {
+   "English": "guarantee",
+   "Bangla": "জামিন"
+ },
+ {
+   "English": "guess",
+   "Bangla": "অনুমান"
+ },
+ {
+   "English": "guest",
+   "Bangla": "অতিথি"
+ },
+ {
+   "English": "guidance",
+   "Bangla": "পথপ্রদর্শন"
+ },
+ {
+   "English": "guide",
+   "Bangla": "নির্দেশিকা"
+ },
+ {
+   "English": "gun",
+   "Bangla": "বন্দুক"
+ },
+ {
+   "English": "home",
+   "Bangla": "বাড়ি"
+ },
+ {
+   "English": "honor",
+   "Bangla": "সম্মান"
+ },
+ {
+   "English": "hope",
+   "Bangla": "আশা"
+ },
+ {
+   "English": "horse",
+   "Bangla": "ঘোড়া"
+ },
+ {
+   "English": "hospital",
+   "Bangla": "হাসপাতাল"
+ },
+ {
+   "English": "hot",
+   "Bangla": "গরম"
+ },
+ {
+   "English": "hour",
+   "Bangla": "ঘন্টা"
+ },
+ {
+   "English": "house",
+   "Bangla": "গৃহ"
+ },
+ {
+   "English": "how",
+   "Bangla": "কিভাবে"
+ },
+ {
+   "English": "however",
+   "Bangla": "যাহোক"
+ },
+ {
+   "English": "huge",
+   "Bangla": "বিপুল"
+ },
+ {
+   "English": "human",
+   "Bangla": "মানবীয়"
+ },
+ {
+   "English": "humor",
+   "Bangla": "মেজাজ"
+ },
+ {
+   "English": "humorous",
+   "Bangla": "রসাত্মক"
+ },
+ {
+   "English": "hundred",
+   "Bangla": "শত"
+ },
+ {
+   "English": "hungry",
+   "Bangla": "ক্ষুধার্ত"
+ },
+ {
+   "English": "hunt",
+   "Bangla": "খোজা"
+ },
+ {
+   "English": "hurry",
+   "Bangla": "ত্বরা"
+ },
+ {
+   "English": "hurt",
+   "Bangla": "আহত"
+ },
+ {
+   "English": "husband",
+   "Bangla": "স্বামী"
+ },
+ {
+   "English": "had",
+   "Bangla": "ছিল"
+ },
+ {
+   "English": "hair",
+   "Bangla": "চুল"
+ },
+ {
+   "English": "half",
+   "Bangla": "অর্ধেক"
+ },
+ {
+   "English": "hand",
+   "Bangla": "হাত"
+ },
+ {
+   "English": "happen",
+   "Bangla": "ঘটা"
+ },
+ {
+   "English": "happened",
+   "Bangla": "ঘটেছিলো"
+ },
+ {
+   "English": "happening",
+   "Bangla": "ঘটনা"
+ },
+ {
+   "English": "happiness",
+   "Bangla": "সুখ"
+ },
+ {
+   "English": "happy",
+   "Bangla": "সুখী"
+ },
+ {
+   "English": "hard",
+   "Bangla": "কঠিন"
+ },
+ {
+   "English": "has",
+   "Bangla": "হয়েছে"
+ },
+ {
+   "English": "hat",
+   "Bangla": "টুপি"
+ },
+ {
+   "English": "have",
+   "Bangla": "আছে"
+ },
+ {
+   "English": "he",
+   "Bangla": "তিনি"
+ },
+ {
+   "English": "he’s",
+   "Bangla": "সে"
+ },
+ {
+   "English": "head",
+   "Bangla": "মাথা"
+ },
+ {
+   "English": "healthy",
+   "Bangla": "সুস্থ"
+ },
+ {
+   "English": "hear",
+   "Bangla": "শোনা"
+ },
+ {
+   "English": "heard",
+   "Bangla": "শুনেছি"
+ },
+ {
+   "English": "heart",
+   "Bangla": "হৃদয়"
+ },
+ {
+   "English": "heat",
+   "Bangla": "তাপ"
+ },
+ {
+   "English": "heavy",
+   "Bangla": "ভারী"
+ },
+ {
+   "English": "height",
+   "Bangla": "উচ্চতা"
+ },
+ {
+   "English": "held",
+   "Bangla": "অনুষ্ঠিত"
+ },
+ {
+   "English": "help",
+   "Bangla": "সাহায্যের"
+ },
+ {
+   "English": "her",
+   "Bangla": "তার"
+ },
+ {
+   "English": "here",
+   "Bangla": "এখানে"
+ },
+ {
+   "English": "hero",
+   "Bangla": "বীর"
+ },
+ {
+   "English": "heros",
+   "Bangla": "নায়ক"
+ },
+ {
+   "English": "hers",
+   "Bangla": "তার"
+ },
+ {
+   "English": "herself",
+   "Bangla": "নিজেকে"
+ },
+ {
+   "English": "high",
+   "Bangla": "উচ্চ"
+ },
+ {
+   "English": "hill",
+   "Bangla": "পাহাড়"
+ },
+ {
+   "English": "him",
+   "Bangla": "তার"
+ },
+ {
+   "English": "himself",
+   "Bangla": "নিজে"
+ },
+ {
+   "English": "his",
+   "Bangla": "তার"
+ },
+ {
+   "English": "history",
+   "Bangla": "ইতিহাস"
+ },
+ {
+   "English": "hit",
+   "Bangla": "হিট"
+ },
+ {
+   "English": "hold",
+   "Bangla": "রাখা"
+ },
+ {
+   "English": "hole",
+   "Bangla": "গর্ত"
+ },
+ {
+   "English": "I",
+   "Bangla": "আমি"
+ },
+ {
+   "English": "I’d",
+   "Bangla": "আমি চাই"
+ },
+ {
+   "English": "I’ll",
+   "Bangla": "আমি করব"
+ },
+ {
+   "English": "I’m",
+   "Bangla": "আমি"
+ },
+ {
+   "English": "I’ve",
+   "Bangla": "আমার আছে"
+ },
+ {
+   "English": "ice",
+   "Bangla": "বরফ"
+ },
+ {
+   "English": "idea",
+   "Bangla": "ধারণা"
+ },
+ {
+   "English": "identify",
+   "Bangla": "সনাক্ত করা"
+ },
+ {
+   "English": "identity",
+   "Bangla": "পরিচয়"
+ },
+ {
+   "English": "if",
+   "Bangla": "যদি"
+ },
+ {
+   "English": "illustrate",
+   "Bangla": "চিত্রিত করা"
+ },
+ {
+   "English": "imaginary",
+   "Bangla": "কল্পিত"
+ },
+ {
+   "English": "imagine",
+   "Bangla": "কল্পনা করা"
+ },
+ {
+   "English": "imitate",
+   "Bangla": "নকল"
+ },
+ {
+   "English": "imitation",
+   "Bangla": "অনুকরণ"
+ },
+ {
+   "English": "immediate",
+   "Bangla": "আশু"
+ },
+ {
+   "English": "immediately",
+   "Bangla": "অবিলম্বে"
+ },
+ {
+   "English": "importance",
+   "Bangla": "গুরুত্ব"
+ },
+ {
+   "English": "important",
+   "Bangla": "গুরুত্বপূর্ণ"
+ },
+ {
+   "English": "impossible",
+   "Bangla": "অসম্ভব"
+ },
+ {
+   "English": "imprison",
+   "Bangla": "কয়েদ করা"
+ },
+ {
+   "English": "improve",
+   "Bangla": "উন্নত করা"
+ },
+ {
+   "English": "improvement",
+   "Bangla": "উন্নতি"
+ },
+ {
+   "English": "in",
+   "Bangla": "ভিতরে"
+ },
+ {
+   "English": "inch",
+   "Bangla": "ইঞ্চি"
+ },
+ {
+   "English": "incidentally",
+   "Bangla": "প্রসঙ্গক্রমে"
+ },
+ {
+   "English": "include",
+   "Bangla": "অন্তর্ভুক্ত করা"
+ },
+ {
+   "English": "income",
+   "Bangla": "আয়"
+ },
+ {
+   "English": "increase",
+   "Bangla": "বৃদ্ধি"
+ },
+ {
+   "English": "indeed",
+   "Bangla": "প্রকৃতপক্ষে"
+ },
+ {
+   "English": "independent",
+   "Bangla": "স্বাধীন"
+ },
+ {
+   "English": "indicate",
+   "Bangla": "ইঙ্গিত"
+ },
+ {
+   "English": "individual",
+   "Bangla": "স্বতন্ত্র"
+ },
+ {
+   "English": "industry",
+   "Bangla": "শিল্প"
+ },
+ {
+   "English": "influence",
+   "Bangla": "প্রভাব"
+ },
+ {
+   "English": "inform",
+   "Bangla": "জানান"
+ },
+ {
+   "English": "information",
+   "Bangla": "তথ্য"
+ },
+ {
+   "English": "injure",
+   "Bangla": "ক্ষত"
+ },
+ {
+   "English": "insect",
+   "Bangla": "পোকা"
+ },
+ {
+   "English": "insects",
+   "Bangla": "পোকামাকড়"
+ },
+ {
+   "English": "inside",
+   "Bangla": "ভিতরে"
+ },
+ {
+   "English": "inspect",
+   "Bangla": "পরিদর্শন করা"
+ },
+ {
+   "English": "instance",
+   "Bangla": "দৃষ্টান্ত"
+ },
+ {
+   "English": "instead",
+   "Bangla": "পরিবর্তে"
+ },
+ {
+   "English": "instrument",
+   "Bangla": "যন্ত্র"
+ },
+ {
+   "English": "intelligent",
+   "Bangla": "বুদ্ধিমান"
+ },
+ {
+   "English": "intend",
+   "Bangla": "মনস্থ করা"
+ },
+ {
+   "English": "interest",
+   "Bangla": "স্বার্থ"
+ },
+ {
+   "English": "interesting",
+   "Bangla": "মজাদার"
+ },
+ {
+   "English": "interfere",
+   "Bangla": "হস্তক্ষেপ করা"
+ },
+ {
+   "English": "interference",
+   "Bangla": "হস্তক্ষেপ"
+ },
+ {
+   "English": "interrupt",
+   "Bangla": "বিঘ্ন"
+ },
+ {
+   "English": "interruption",
+   "Bangla": "বাধা"
+ },
+ {
+   "English": "into",
+   "Bangla": "মধ্যে"
+ },
+ {
+   "English": "invent",
+   "Bangla": "উদ্ভাবন করা"
+ },
+ {
+   "English": "investigate",
+   "Bangla": "তদন্ত করা"
+ },
+ {
+   "English": "invitation",
+   "Bangla": "আমন্ত্রণ"
+ },
+ {
+   "English": "invite",
+   "Bangla": "আমন্ত্রণ করা"
+ },
+ {
+   "English": "iron",
+   "Bangla": "লোহা"
+ },
+ {
+   "English": "irrelevant",
+   "Bangla": "অপ্রাসঙ্গিক"
+ },
+ {
+   "English": "irritable",
+   "Bangla": "খিট্খিটে"
+ },
+ {
+   "English": "is",
+   "Bangla": "হয়"
+ },
+ {
+   "English": "island",
+   "Bangla": "দ্বীপ"
+ },
+ {
+   "English": "isn’t",
+   "Bangla": "নয়"
+ },
+ {
+   "English": "issue",
+   "Bangla": "সমস্যা"
+ },
+ {
+   "English": "it",
+   "Bangla": "এটা"
+ },
+ {
+   "English": "it’s",
+   "Bangla": "এটা"
+ },
+ {
+   "English": "its",
+   "Bangla": "এর"
+ },
+ {
+   "English": "itself",
+   "Bangla": "নিজেই"
+ },
+ {
+   "English": "jail",
+   "Bangla": "জেল"
+ },
+ {
+   "English": "January",
+   "Bangla": "জানুয়ারী"
+ },
+ {
+   "English": "jealous",
+   "Bangla": "ঈর্ষান্বিত"
+ },
+ {
+   "English": "job",
+   "Bangla": "কাজ"
+ },
+ {
+   "English": "join",
+   "Bangla": "যোগদানের"
+ },
+ {
+   "English": "joy",
+   "Bangla": "আনন্দ"
+ },
+ {
+   "English": "judge",
+   "Bangla": "বিচারক"
+ },
+ {
+   "English": "judgement",
+   "Bangla": "রায়"
+ },
+ {
+   "English": "July",
+   "Bangla": "জুলাই"
+ },
+ {
+   "English": "jump",
+   "Bangla": "লাফ"
+ },
+ {
+   "English": "June",
+   "Bangla": "জুন"
+ },
+ {
+   "English": "just",
+   "Bangla": "মাত্র"
+ },
+ {
+   "English": "justice",
+   "Bangla": "বিচার"
+ },
+ {
+   "English": "keep",
+   "Bangla": "রাখা"
+ },
+ {
+   "English": "kept",
+   "Bangla": "রাখা"
+ },
+ {
+   "English": "key",
+   "Bangla": "চাবি"
+ },
+ {
+   "English": "kind",
+   "Bangla": "সদয়"
+ },
+ {
+   "English": "king",
+   "Bangla": "রাজা"
+ },
+ {
+   "English": "kitchen",
+   "Bangla": "রান্নাঘর"
+ },
+ {
+   "English": "knew",
+   "Bangla": "জানতাম"
+ },
+ {
+   "English": "knife",
+   "Bangla": "ছুরি"
+ },
+ {
+   "English": "know",
+   "Bangla": "জানা"
+ },
+ {
+   "English": "knowledge",
+   "Bangla": "জ্ঞান"
+ },
+ {
+   "English": "known",
+   "Bangla": "পরিচিত"
+ },
+ {
+   "English": "labor",
+   "Bangla": "শ্রম"
+ },
+ {
+   "English": "laboratory",
+   "Bangla": "পরীক্ষাগার"
+ },
+ {
+   "English": "lady",
+   "Bangla": "ভদ্রমহিলা"
+ },
+ {
+   "English": "laid",
+   "Bangla": "পাড়া"
+ },
+ {
+   "English": "lake",
+   "Bangla": "হ্রদ"
+ },
+ {
+   "English": "land",
+   "Bangla": "জমি"
+ },
+ {
+   "English": "language",
+   "Bangla": "ভাষা"
+ },
+ {
+   "English": "large",
+   "Bangla": "বড়"
+ },
+ {
+   "English": "last",
+   "Bangla": "গত"
+ },
+ {
+   "English": "late",
+   "Bangla": "বিলম্বে"
+ },
+ {
+   "English": "later",
+   "Bangla": "পরে"
+ },
+ {
+   "English": "laugh",
+   "Bangla": "হাসি"
+ },
+ {
+   "English": "law",
+   "Bangla": "আইন"
+ },
+ {
+   "English": "lay",
+   "Bangla": "লে"
+ },
+ {
+   "English": "lead",
+   "Bangla": "নেতৃত্ব"
+ },
+ {
+   "English": "leader",
+   "Bangla": "নেতা"
+ },
+ {
+   "English": "learn",
+   "Bangla": "শেখা"
+ },
+ {
+   "English": "learned",
+   "Bangla": "জ্ঞানী"
+ },
+ {
+   "English": "least",
+   "Bangla": "অন্তত"
+ },
+ {
+   "English": "leather",
+   "Bangla": "চামড়া"
+ },
+ {
+   "English": "leave",
+   "Bangla": "ছুটি"
+ },
+ {
+   "English": "leaves",
+   "Bangla": "পাতার"
+ },
+ {
+   "English": "led",
+   "Bangla": "এলইডি"
+ },
+ {
+   "English": "ledge",
+   "Bangla": "স্তর"
+ },
+ {
+   "English": "left",
+   "Bangla": "বাম"
+ },
+ {
+   "English": "leg",
+   "Bangla": "পা"
+ },
+ {
+   "English": "length",
+   "Bangla": "লম্বা"
+ },
+ {
+   "English": "less",
+   "Bangla": "কম"
+ },
+ {
+   "English": "lesson",
+   "Bangla": "পাঠ"
+ },
+ {
+   "English": "let",
+   "Bangla": "দিন"
+ },
+ {
+   "English": "letter",
+   "Bangla": "চিঠি"
+ },
+ {
+   "English": "level",
+   "Bangla": "উচ্চতা"
+ },
+ {
+   "English": "liberty",
+   "Bangla": "স্বাধীনতা"
+ },
+ {
+   "English": "library",
+   "Bangla": "গ্রন্থাগার"
+ },
+ {
+   "English": "license",
+   "Bangla": "লাইসেন্স"
+ },
+ {
+   "English": "lie",
+   "Bangla": "মিথ্যা"
+ },
+ {
+   "English": "life",
+   "Bangla": "জীবন"
+ },
+ {
+   "English": "light",
+   "Bangla": "আলো"
+ },
+ {
+   "English": "like",
+   "Bangla": "মত"
+ },
+ {
+   "English": "line",
+   "Bangla": "লাইন"
+ },
+ {
+   "English": "liquid",
+   "Bangla": "তরল"
+ },
+ {
+   "English": "list",
+   "Bangla": "তালিকা"
+ },
+ {
+   "English": "listen",
+   "Bangla": "শোনা"
+ },
+ {
+   "English": "little",
+   "Bangla": "সামান্য"
+ },
+ {
+   "English": "live",
+   "Bangla": "লাইভ দেখান"
+ },
+ {
+   "English": "lived",
+   "Bangla": "বাস করতেন"
+ },
+ {
+   "English": "living",
+   "Bangla": "জীবিত"
+ },
+ {
+   "English": "local",
+   "Bangla": "স্থানীয়"
+ },
+ {
+   "English": "locate",
+   "Bangla": "সনাক্ত"
+ },
+ {
+   "English": "located",
+   "Bangla": "অবস্থিত"
+ },
+ {
+   "English": "log",
+   "Bangla": "লগ"
+ },
+ {
+   "English": "lone",
+   "Bangla": "নির্জন"
+ },
+ {
+   "English": "loneliness",
+   "Bangla": "নিঃসঙ্গতা"
+ },
+ {
+   "English": "lonely",
+   "Bangla": "একাকী"
+ },
+ {
+   "English": "long",
+   "Bangla": "দীর্ঘ"
+ },
+ {
+   "English": "longer",
+   "Bangla": "আর"
+ },
+ {
+   "English": "look",
+   "Bangla": "বর্ণন"
+ },
+ {
+   "English": "looked",
+   "Bangla": "তাকিয়ে"
+ },
+ {
+   "English": "loose",
+   "Bangla": "আলগা"
+ },
+ {
+   "English": "lose",
+   "Bangla": "হারান"
+ },
+ {
+   "English": "losing",
+   "Bangla": "হারানো"
+ },
+ {
+   "English": "loss",
+   "Bangla": "ক্ষতি"
+ },
+ {
+   "English": "lost",
+   "Bangla": "নিখোঁজ"
+ },
+ {
+   "English": "lot",
+   "Bangla": "অনেক"
+ },
+ {
+   "English": "loud",
+   "Bangla": "অট্ট"
+ },
+ {
+   "English": "love",
+   "Bangla": "ভালবাসা"
+ },
+ {
+   "English": "low",
+   "Bangla": "কম"
+ },
+ {
+   "English": "lying",
+   "Bangla": "মিথ্যা"
+ },
+ {
+   "English": "material",
+   "Bangla": "উপাদান"
+ },
+ {
+   "English": "mathematics",
+   "Bangla": "অংক"
+ },
+ {
+   "English": "matter",
+   "Bangla": "ব্যাপার"
+ },
+ {
+   "English": "matter",
+   "Bangla": "ব্যাপার"
+ },
+ {
+   "English": "may",
+   "Bangla": "পারে"
+ },
+ {
+   "English": "May",
+   "Bangla": "মে"
+ },
+ {
+   "English": "maybe",
+   "Bangla": "হতে পারে"
+ },
+ {
+   "English": "mayor",
+   "Bangla": "মেয়র"
+ },
+ {
+   "English": "me",
+   "Bangla": "আমাকে"
+ },
+ {
+   "English": "mean",
+   "Bangla": "গড়"
+ },
+ {
+   "English": "meant",
+   "Bangla": "অভিপ্রেত"
+ },
+ {
+   "English": "measure",
+   "Bangla": "পরিমাপ করা"
+ },
+ {
+   "English": "meat",
+   "Bangla": "মাংস"
+ },
+ {
+   "English": "medicine",
+   "Bangla": "ওষুধ"
+ },
+ {
+   "English": "meet",
+   "Bangla": "সম্মেলন"
+ },
+ {
+   "English": "member",
+   "Bangla": "সদস্য"
+ },
+ {
+   "English": "men",
+   "Bangla": "পুরুষদের"
+ },
+ {
+   "English": "mental",
+   "Bangla": "মানসিক"
+ },
+ {
+   "English": "mention",
+   "Bangla": "উল্লেখ"
+ },
+ {
+   "English": "mere",
+   "Bangla": "নিছক"
+ },
+ {
+   "English": "message",
+   "Bangla": "বার্তা"
+ },
+ {
+   "English": "met",
+   "Bangla": "মিলিত"
+ },
+ {
+   "English": "metal",
+   "Bangla": "ধাতু"
+ },
+ {
+   "English": "method",
+   "Bangla": "পদ্ধতি"
+ },
+ {
+   "English": "middle",
+   "Bangla": "মধ্যম"
+ },
+ {
+   "English": "might",
+   "Bangla": "হতে পারে"
+ },
+ {
+   "English": "mile",
+   "Bangla": "মাইল"
+ },
+ {
+   "English": "milk",
+   "Bangla": "দুধ"
+ },
+ {
+   "English": "million",
+   "Bangla": "মিলিয়ন"
+ },
+ {
+   "English": "mind",
+   "Bangla": "মন"
+ },
+ {
+   "English": "mine",
+   "Bangla": "খনি"
+ },
+ {
+   "English": "miniature",
+   "Bangla": "ক্ষুদ্র"
+ },
+ {
+   "English": "minute",
+   "Bangla": "মিনিট"
+ },
+ {
+   "English": "miss",
+   "Bangla": "হারানো"
+ },
+ {
+   "English": "Miss",
+   "Bangla": "হারানো"
+ },
+ {
+   "English": "mistake",
+   "Bangla": "ভুল"
+ },
+ {
+   "English": "mix",
+   "Bangla": "মিশ্রণ"
+ },
+ {
+   "English": "model",
+   "Bangla": "মডেল"
+ },
+ {
+   "English": "modern",
+   "Bangla": "আধুনিক"
+ },
+ {
+   "English": "molecule",
+   "Bangla": "অণু"
+ },
+ {
+   "English": "moment",
+   "Bangla": "মুহূর্ত"
+ },
+ {
+   "English": "Monday",
+   "Bangla": "সোমবার"
+ },
+ {
+   "English": "money",
+   "Bangla": "টাকা"
+ },
+ {
+   "English": "month",
+   "Bangla": "মাস"
+ },
+ {
+   "English": "moon",
+   "Bangla": "চাঁদ"
+ },
+ {
+   "English": "more",
+   "Bangla": "অধিক"
+ },
+ {
+   "English": "morning",
+   "Bangla": "সকাল"
+ },
+ {
+   "English": "most",
+   "Bangla": "সবচেয়ে"
+ },
+ {
+   "English": "mother",
+   "Bangla": "মা"
+ },
+ {
+   "English": "motion",
+   "Bangla": "গতি"
+ },
+ {
+   "English": "motor",
+   "Bangla": "মোটর"
+ },
+ {
+   "English": "mount",
+   "Bangla": "পর্বত"
+ },
+ {
+   "English": "mountain",
+   "Bangla": "পর্বত"
+ },
+ {
+   "English": "mouth",
+   "Bangla": "মুখ"
+ },
+ {
+   "English": "move",
+   "Bangla": "পদক্ষেপ"
+ },
+ {
+   "English": "movement",
+   "Bangla": "আন্দোলন"
+ },
+ {
+   "English": "Mr.",
+   "Bangla": "জনাব."
+ },
+ {
+   "English": "Mrs.",
+   "Bangla": "জনাবা."
+ },
+ {
+   "English": "much",
+   "Bangla": "অনেক"
+ },
+ {
+   "English": "multiply",
+   "Bangla": "সংখ্যাবৃদ্ধি"
+ },
+ {
+   "English": "muscles",
+   "Bangla": "পেশী"
+ },
+ {
+   "English": "music",
+   "Bangla": "সঙ্গীত"
+ },
+ {
+   "English": "must",
+   "Bangla": "অবশ্যই"
+ },
+ {
+   "English": "my",
+   "Bangla": "আমার"
+ },
+ {
+   "English": "myself",
+   "Bangla": "নিজেকে"
+ },
+ {
+   "English": "mysterious",
+   "Bangla": "রহস্যময়"
+ },
+ {
+   "English": "machine",
+   "Bangla": "মেশিন"
+ },
+ {
+   "English": "made",
+   "Bangla": "প্রণীত"
+ },
+ {
+   "English": "magazine",
+   "Bangla": "পত্রিকা"
+ },
+ {
+   "English": "magnet",
+   "Bangla": "চুম্বক"
+ },
+ {
+   "English": "mail",
+   "Bangla": "মেইল"
+ },
+ {
+   "English": "main",
+   "Bangla": "প্রধান"
+ },
+ {
+   "English": "major",
+   "Bangla": "মুখ্য"
+ },
+ {
+   "English": "majority",
+   "Bangla": "সংখ্যাগুরু"
+ },
+ {
+   "English": "make",
+   "Bangla": "করতে"
+ },
+ {
+   "English": "man",
+   "Bangla": "মানুষ"
+ },
+ {
+   "English": "mane",
+   "Bangla": "কেশর"
+ },
+ {
+   "English": "manner",
+   "Bangla": "পদ্ধতি"
+ },
+ {
+   "English": "many",
+   "Bangla": "অনেক"
+ },
+ {
+   "English": "map",
+   "Bangla": "মানচিত্র"
+ },
+ {
+   "English": "March",
+   "Bangla": "মার্চ"
+ },
+ {
+   "English": "mark",
+   "Bangla": "ছাপ"
+ },
+ {
+   "English": "market",
+   "Bangla": "বাজার"
+ },
+ {
+   "English": "marriage",
+   "Bangla": "বিবাহ"
+ },
+ {
+   "English": "married",
+   "Bangla": "বিবাহিত"
+ },
+ {
+   "English": "mass",
+   "Bangla": "ভর"
+ },
+ {
+   "English": "master",
+   "Bangla": "মনিব"
+ },
+ {
+   "English": "match",
+   "Bangla": "ম্যাচ"
+ },
+ {
+   "English": "match",
+   "Bangla": "ম্যাচ"
+ },
+ {
+   "English": "name",
+   "Bangla": "নাম"
+ },
+ {
+   "English": "named",
+   "Bangla": "নামে"
+ },
+ {
+   "English": "narrow",
+   "Bangla": "সংকীর্ণ"
+ },
+ {
+   "English": "nation",
+   "Bangla": "জাতি"
+ },
+ {
+   "English": "national",
+   "Bangla": "জাতীয়"
+ },
+ {
+   "English": "natural",
+   "Bangla": "প্রাকৃতিক"
+ },
+ {
+   "English": "naturally",
+   "Bangla": "স্বাভাবিকভাবে"
+ },
+ {
+   "English": "nature",
+   "Bangla": "প্রকৃতি"
+ },
+ {
+   "English": "navy",
+   "Bangla": "নৌবাহিনী"
+ },
+ {
+   "English": "near",
+   "Bangla": "কাছাকাছি"
+ },
+ {
+   "English": "nearly",
+   "Bangla": "প্রায়"
+ },
+ {
+   "English": "necessary",
+   "Bangla": "প্রয়োজনীয়"
+ },
+ {
+   "English": "neck",
+   "Bangla": "ঘাড়"
+ },
+ {
+   "English": "need",
+   "Bangla": "প্রয়োজন"
+ },
+ {
+   "English": "neighbor",
+   "Bangla": "প্রতিবেশী"
+ },
+ {
+   "English": "neither",
+   "Bangla": "তন্ন তন্ন"
+ },
+ {
+   "English": "never",
+   "Bangla": "না"
+ },
+ {
+   "English": "new",
+   "Bangla": "নতুন"
+ },
+ {
+   "English": "news",
+   "Bangla": "খবর"
+ },
+ {
+   "English": "newspaper",
+   "Bangla": "সংবাদপত্র"
+ },
+ {
+   "English": "next",
+   "Bangla": "পরবর্তী"
+ },
+ {
+   "English": "nice",
+   "Bangla": "চমৎকার"
+ },
+ {
+   "English": "night",
+   "Bangla": "রাত"
+ },
+ {
+   "English": "nine",
+   "Bangla": "নয়"
+ },
+ {
+   "English": "no",
+   "Bangla": "না"
+ },
+ {
+   "English": "nobody",
+   "Bangla": "কেউ নয়"
+ },
+ {
+   "English": "noise",
+   "Bangla": "গোলমাল"
+ },
+ {
+   "English": "none",
+   "Bangla": "না"
+ },
+ {
+   "English": "noon",
+   "Bangla": "দুপুর"
+ },
+ {
+   "English": "nor",
+   "Bangla": "না"
+ },
+ {
+   "English": "north",
+   "Bangla": "উত্তর"
+ },
+ {
+   "English": "northern",
+   "Bangla": "উত্তর"
+ },
+ {
+   "English": "nose",
+   "Bangla": "নাক"
+ },
+ {
+   "English": "not",
+   "Bangla": "না"
+ },
+ {
+   "English": "note",
+   "Bangla": "বিঃদ্রঃ"
+ },
+ {
+   "English": "nothing",
+   "Bangla": "কিছু না"
+ }
+]
